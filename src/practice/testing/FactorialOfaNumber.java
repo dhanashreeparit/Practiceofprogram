@@ -16,6 +16,7 @@ public class FactorialOfaNumber {
 		for (int i = num;i>0;i--) {
 			fact=fact*i;
 			
+			
 		}
 		return fact;
 	}

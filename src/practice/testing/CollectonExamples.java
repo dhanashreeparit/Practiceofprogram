@@ -14,6 +14,7 @@ public class CollectonExamples {
 		ele.sendKeys("dhanashree parit");
 		WebElement ele2=driver.findElement(By.xpath("//input[@id='passwordField']"));
 		ele2.sendKeys("#parit123");
+		
 	
 	}
 
